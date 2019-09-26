@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:libRootDetect-release:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libRootDetect-release/build/.transforms/6d25409b9292ac463663431befc789eb/libRootDetect-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/libRootDetect-release/build/.transforms/6d25409b9292ac463663431befc789eb/libRootDetect-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

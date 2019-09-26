@@ -1,0 +1,1 @@
+ar.gob.afip.mobile.android.rootdetection

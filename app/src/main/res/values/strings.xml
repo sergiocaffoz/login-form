@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="ingresar_email_hint">Correo Electronico</string>
+    <string name="ingresar_password_hint">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="dni_digital">Ir a dni digital</string>
+    <string name="email_error_message">El formato esperado es XXX@XXX.XXX</string>
+    <string name="password_error_message">La contraseña debe contener al menos 2 dígitos y 10 caracteres, entre ellos al menos una mayúsucla y al menos una minúscula</string>
+    <string name="title_activity_ciudadano">CiudadanoActivity</string>
+    <string name="btnDatos">Datos</string>
+    <string name="btnDeudas">Deudas</string>
+    <string name="btnVencimientos" >Vencimientos</string>
+</resources>

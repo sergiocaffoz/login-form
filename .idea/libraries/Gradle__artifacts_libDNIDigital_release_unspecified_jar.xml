@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:libDNIDigital-release:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libDNIDigital-release/build/.transforms/7196ef35102d366fcd1a73c33b8654c9/libDNIDigital-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/libDNIDigital-release/build/.transforms/7196ef35102d366fcd1a73c33b8654c9/libDNIDigital-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

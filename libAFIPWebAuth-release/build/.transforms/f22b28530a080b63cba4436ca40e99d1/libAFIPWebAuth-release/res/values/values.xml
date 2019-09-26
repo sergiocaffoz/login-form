@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="service_environment_production">true</bool>
+    <color name="colorAccent">#4596BC</color>
+    <color name="colorPrimary">#004080</color>
+    <color name="colorPrimaryDark">#004080</color>
+    <color name="colorPrimaryLight">#1B6C92</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">libLogin</string>
+    <string name="default_login_error">Login error</string>
+    <string name="error_general">Error</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_internet_connection">Por favor, verificá tu conexón a internet, y intentá nuevamente.</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="title_activity_portal_ciudadano_main">Titulo</string>
+</resources>
